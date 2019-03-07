@@ -1,0 +1,8 @@
+bleach==1.5.0
+certifi==2018.11.29
+Django==2.1.7
+html5lib==0.9999999
+pytz==2018.9
+tensorflow==1.4.0
+tensorflow-tensorboard==0.4.0
+wincertstore==0.2
